@@ -1,6 +1,6 @@
 - 😎 Olá sou o Luís Fernando!
-- 
-- 🔭 Eu hoje trabalho com Engenharia Civil.
+
+- - 🔭 Eu hoje trabalho com Engenharia Civil.
 - 🏢 Atualmente estou estudado Análise e Desenvolvimentos de Sistemas.
 - - 🤔 Procuro ajuda para minha formação acadêmica
 - 🐱‍👤 Disponivél para negociações contratuais

@@ -2,8 +2,7 @@
 - 
 - 🔭 Eu hoje trabalho com Engenharia Civil.
 - 🏢 Atualmente estou estudado Análise e Desenvolvimentos de Sistemas.
-- 👯 Estou cursando Python e SQL
-- 🤔 Procuro ajuda para minha  formação acadêmica
+- - 🤔 Procuro ajuda para minha formação acadêmica
 - 🐱‍👤 Disponivél para negociações contratuais
 
 <div align="center">

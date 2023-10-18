@@ -1,9 +1,10 @@
 - 😎 Olá sou o Luís Fernando!
-
-- - 🔭 Eu hoje trabalho com Engenharia Civil.
-- 🏢 Atualmente estou estudado Análise e Desenvolvimentos de Sistemas.
-- - 🤔 Procuro ajuda para minha formação acadêmica
-- 🐱‍👤 Disponivél para negociações contratuais
+- Com uma paixão inabalável por tecnologia, especialmente em Java,
+- sou um dedicado profissional com experiência sólida em Gerencia em Suprimentos. 
+- 🏢 Atualmente estou 4º periodo em Análise e Desenvolvimentos de Sistemas.
+- Estou entusiasmado para integrar essa paixão pela tecnologia em meus projetos e buscar soluções inovadoras que potencializam os resultados. 
+- Se você procura um profissional para colaborar com seus projetos em Backend, estou sempre disponível para discutir. 
+- Vamos conectar e explorar oportunidades juntos.
 
 <div align="center">
   <a href="https://github.com/LuisFNascimento">

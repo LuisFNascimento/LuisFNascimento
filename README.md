@@ -1,9 +1,9 @@
-- 😎 Olá sou o Luís Fernando!
-- Com uma paixão inabalável por tecnologia, especialmente em Java, sou um dedicado profissional com experiência sólida em Gerencia em Suprimentos. 
-- 🏢 Atualmente estou 4º periodo em Análise e Desenvolvimentos de Sistemas.
-- Estou entusiasmado para integrar essa paixão pela tecnologia em meus projetos e buscar soluções inovadoras que potencializam os resultados. 
-- Se você procura um profissional para colaborar com seus projetos em Backend, estou sempre disponível para discutir. 
-- Vamos conectar e explorar oportunidades juntos.
+# _Olá sou o **Luís Fernando**_! 😎
+- _Com uma paixão inabalável por tecnologia, especialmente em Java, sou um dedicado profissional com experiência sólida em Gerência de Suprimentos_. 
+- 🏢 _Atualmente estou 4º periodo em Análise e Desenvolvimentos de Sistemas_.
+- _Estou entusiasmado para integrar essa paixão pela tecnologia em meus projetos e buscar soluções inovadoras que potencializam os resultados_. 
+- _Se você procura um profissional para colaborar com seus projetos em Backend, estou sempre disponível para discutir_. 
+- _Vamos conectar e explorar oportunidades juntos_.
 
 <div align="center">
   <a href="https://github.com/LuisFNascimento">

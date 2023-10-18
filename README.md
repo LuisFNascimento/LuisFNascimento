@@ -1,6 +1,5 @@
 - 😎 Olá sou o Luís Fernando!
-- Com uma paixão inabalável por tecnologia, especialmente em Java,
-- sou um dedicado profissional com experiência sólida em Gerencia em Suprimentos. 
+- Com uma paixão inabalável por tecnologia, especialmente em Java, sou um dedicado profissional com experiência sólida em Gerencia em Suprimentos. 
 - 🏢 Atualmente estou 4º periodo em Análise e Desenvolvimentos de Sistemas.
 - Estou entusiasmado para integrar essa paixão pela tecnologia em meus projetos e buscar soluções inovadoras que potencializam os resultados. 
 - Se você procura um profissional para colaborar com seus projetos em Backend, estou sempre disponível para discutir. 

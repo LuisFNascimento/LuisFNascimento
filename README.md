@@ -1,4 +1,4 @@
-# _Olá sou o **Luís Fernando**_! 😎
+# 👋🏻 _**Hello**_
 - _Com uma paixão inabalável por tecnologia, especialmente em Java, sou um dedicado profissional com experiência sólida em Gerência de Suprimentos_. 
 - 🏢 _Atualmente estou 4º periodo em Análise e Desenvolvimentos de Sistemas_.
 - _Estou entusiasmado para integrar essa paixão pela tecnologia em meus projetos e buscar soluções inovadoras que potencializam os resultados_. 

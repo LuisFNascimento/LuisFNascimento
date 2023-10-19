@@ -1,5 +1,5 @@
 # 👋🏻 _**Hello Devs**_
-- _ Desenvolvedor Bankend,com uma paixão inabalável por tecnologia, especialmente em Java._
+- _Desenvolvedor Bankend,com uma paixão inabalável por tecnologia, especialmente em Java._
 - _Vamos explorar oportunidades juntos_.
 
 <div align="center">

@@ -1,6 +1,6 @@
 # 👋🏻 _**Hello Devs**_
-- _ Vamos desenvolver juntos?._
-- _ Compartilhando saber e conhecimento, iremos revolucionar o mundo com superes Projetos _.
+- _Vamos desenvolver juntos?._
+- _Compartilhando saber e conhecimento, iremos revolucionar o mundo com superes Projetos_.
 
 <div align="center">
   <a href="https://github.com/LuisFNascimento">

@@ -1,5 +1,5 @@
 # 👋🏻 _**Hello Devs**_
-- _Vamos desenvolver juntos?._
+- _Vamos desenvolver juntos?_
 - _Compartilhando saber e conhecimento, iremos revolucionar o mundo com superes Projetos_.
 
 <div align="center">

@@ -1,6 +1,6 @@
 # 👋🏻 _**Hello Devs**_
-- _Desenvolvedor Bankend,com uma paixão inabalável por tecnologia, especialmente em Java._
-- _Vamos explorar oportunidades juntos_.
+- _ Vamos desenvolver juntos?._
+- _ Compartilhando saber e conhecimento, iremos revolucionar o mundo com superes Projetos _.
 
 <div align="center">
   <a href="https://github.com/LuisFNascimento">

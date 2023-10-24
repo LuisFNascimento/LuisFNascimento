@@ -16,11 +16,23 @@
   <img align="center" alt="Lula-Angular" height="30" wight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
 
    </div>
+
+  
   
 </div><div align="center">
   <a href="https://github.com/LuisFNascimento">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LuisFNascimento&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFNascimento&layout=compact&langs_count=7&theme=dark"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFNascimento&layout=compact&langs_count=7&theme=dark"/>
+
+   <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=LuisFNascimento&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LuisFNascimento&show_icons=true" />
+</picture>
   
  # 
   

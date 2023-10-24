@@ -15,25 +15,16 @@
   <img align="center" alt="Lula-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
   <img align="center" alt="Lula-Angular" height="30" wight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
 
-   </div>
+ </div><div align="center">
+    
 
-</div><div align="center">
-  <a href="https://github.com/LuisFNascimento">
+  <img align="right" width="400em" src="https://github-readme-stats-ouuan.vercel.app/api?username=LuisFNascimento&theme=dark&show_icons=true">
+    
+   <a href="https://github.com/LuisFNascimento">
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFNascimento&layout=compact&langs_count=7&theme=dark"/>
-
-   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=LuisFNascimento_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=LuisFNascimento&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LuisFNascimento&show_icons=true" />
+</div>
   
- # 
-  
-<div> 
+</div><div align="center">
   <a href="https://www.youtube.com/watch?v=B6iuIssVqRA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/l.fernando.nascimento" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://discord.gg" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 

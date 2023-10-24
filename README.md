@@ -17,14 +17,12 @@
 
    </div>
 
-  
-  
 </div><div align="center">
   <a href="https://github.com/LuisFNascimento">
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFNascimento&layout=compact&langs_count=7&theme=dark"/>
 
    <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=LuisFNascimento_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -32,7 +30,6 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LuisFNascimento&show_icons=true" />
-</picture>
   
  # 
   

@@ -2,7 +2,7 @@
 - _Vamos desenvolver juntos?_
 - _Compartilhando saber e conhecimento, iremos revolucionar o mundo com o desenvolvimento dos nossos Projetos_.
 - _É a capacidade psicológica de sentir o que sentiria outra pessoa, caso estivesse na mesma situação vivenciada por ela_.
-- _É tentar compreender sentimentos e emoções, procurando experimentar o que sente outro indivíduo_.
+_É tentar compreender sentimentos e emoções, procurando experimentar o que sente outro indivíduo_.
 - _**A Empatia leva as pessoas a ajudarem umas às outras**_.
 
    

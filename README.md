@@ -18,9 +18,9 @@ _É tentar compreender sentimentos e emoções, procurando experimentar o que se
    #
 
 <div align="center">
-   <img height="150rem" src="https://github-readme-stats-ouuan.vercel.app/api?username=LuisFNascimento&theme=dark&show_icons=true">
+   <img height="180rem" src="https://github-readme-stats-ouuan.vercel.app/api?username=LuisFNascimento&theme=dark&show_icons=true">
    <a href="https://github.com/LuisFNascimento">
-   <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFNascimento&layout=compact&langs_count=7&theme=dark"/>
+   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFNascimento&layout=compact&langs_count=7&theme=dark"/>
 </div>
    
    #

@@ -1,8 +1,22 @@
-# 👋🏻 _**Hello Devs**_
-- _Compartilhando saber e conhecimento, iremos revolucionar o mundo com o desenvolvimento dos nossos Projetos_.
-- _É a capacidade psicológica de sentir o que sentiria outra pessoa, caso estivesse na mesma situação vivenciada por ela_.
-_É tentar compreender sentimentos e emoções, procurando experimentar o que sente outro indivíduo_.
-- _**A Empatia leva as pessoas a ajudarem umas às outras**_.
+# 👋 Olá, eu sou o Luís Fernando
+
+Sou **Desenvolvedor Back-end Java**, formado em **Análise e Desenvolvimento de Sistemas** e pós-graduando em **Arquitetura e Desenvolvimento Java pela FIAP**.
+
+Atuo principalmente no desenvolvimento de **APIs REST com Java e Spring Boot**, aplicando **boas práticas de arquitetura**, código limpo e foco em soluções **escaláveis, organizadas e sustentáveis**.
+
+Tenho experiência prática com:
+- **Spring Boot e Spring Data JPA**
+- **JPQL e consultas avançadas**
+- **Arquitetura em camadas, DDD e Arquitetura Hexagonal**
+- **Integração com APIs externas**
+- **PostgreSQL, Docker e Git**
+- **Testes, organização de domínio e desacoplamento**
+
+Minha trajetória anterior em **gestão e processos** contribuiu para uma visão sistêmica do desenvolvimento de software, com atenção especial às **regras de negócio**, **clareza de código** e **manutenibilidade a longo prazo**.
+
+Atualmente, busco oportunidades como **Desenvolvedor Java Back-end Júnior**, onde eu possa evoluir tecnicamente, contribuir com times colaborativos e trabalhar em projetos reais.
+
+🚀 Aqui você encontrará projetos focados em **Java, Spring Boot, arquitetura de software e backend**.
 
    #
 <br>  

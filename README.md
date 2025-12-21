@@ -19,6 +19,7 @@ Tenho experiência com integração de APIs externas, persistência de dados e o
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg">
 </div>
 
 <br>

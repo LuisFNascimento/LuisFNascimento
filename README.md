@@ -1,4 +1,10 @@
-# 👋 Olá, eu sou o Luís Fernando
+<h1 align="center" style="color: white;">Olá, meu nome é Luís Fernando</h1> 
+
+<h2  align="center" style="color: white;" >Bem-vindo ao meu perfil do Github</h2>
+
+<p align="center">
+
+<p> <img class="respondive" align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></p>
 
 Sou **Desenvolvedor Back-end Java**, formado em **Análise e Desenvolvimento de Sistemas** e pós-graduando em **Arquitetura e Desenvolvimento Java pela FIAP**.
 
